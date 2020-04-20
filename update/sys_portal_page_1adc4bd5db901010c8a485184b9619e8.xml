@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2020-04-20 07:16:20">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout/>
+        <order/>
+        <read_roles/>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>emi_hashimoto@tbn.co.jp</sys_created_by>
+        <sys_created_on>2020-04-20 05:32:42</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1adc4bd5db901010c8a485184b9619e8</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>PA Active Weekly</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_portal_page_1adc4bd5db901010c8a485184b9619e8</sys_update_name>
+        <sys_updated_by>emi_hashimoto@tbn.co.jp</sys_updated_by>
+        <sys_updated_on>2020-04-20 05:33:27</sys_updated_on>
+        <title>PA Active Weekly</title>
+        <user/>
+        <view>pa_needit_application_-_new_tab_2</view>
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Active Weekly">1adc4bd5db901010c8a485184b9619e8</page>
+                <summary>Request Type</summary>
+                <sys_created_by>emi_hashimoto@tbn.co.jp</sys_created_by>
+                <sys_created_on>2020-04-20 05:51:49</sys_created_on>
+                <sys_id>1e31d31ddb901010c8a485184b961974</sys_id>
+                <sys_mod_count>2</sys_mod_count>
+                <sys_updated_by>emi_hashimoto@tbn.co.jp</sys_updated_by>
+                <sys_updated_on>2020-04-20 05:53:11</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2020-04-19 22:51:49">1e31d31ddb901010c8a485184b961974</portal_section>
+                        <sys_created_by>emi_hashimoto@tbn.co.jp</sys_created_by>
+                        <sys_created_on>2020-04-20 05:51:49</sys_created_on>
+                        <sys_id>1631d31ddb901010c8a485184b961975</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>emi_hashimoto@tbn.co.jp</sys_updated_by>
+                        <sys_updated_on>2020-04-20 05:51:49</sys_updated_on>
+                        <value>com.snc.pa.ui.RenderPerformanceAnalytics</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2020-04-19 22:51:49">1e31d31ddb901010c8a485184b961974</portal_section>
+                        <sys_created_by>emi_hashimoto@tbn.co.jp</sys_created_by>
+                        <sys_created_on>2020-04-20 05:51:49</sys_created_on>
+                        <sys_id>5e31d31ddb901010c8a485184b961975</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>emi_hashimoto@tbn.co.jp</sys_updated_by>
+                        <sys_updated_on>2020-04-20 05:53:11</sys_updated_on>
+                        <value>Request Type</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>render_time</name>
+                        <portal_section display_value="Created 2020-04-19 22:51:49">1e31d31ddb901010c8a485184b961974</portal_section>
+                        <sys_created_by>emi_hashimoto@tbn.co.jp</sys_created_by>
+                        <sys_created_on>2020-04-20 05:51:49</sys_created_on>
+                        <sys_id>9a31d31ddb901010c8a485184b961975</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>emi_hashimoto@tbn.co.jp</sys_updated_by>
+                        <sys_updated_on>2020-04-20 05:51:49</sys_updated_on>
+                        <value>0</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2020-04-19 22:51:49">1e31d31ddb901010c8a485184b961974</portal_section>
+                        <sys_created_by>emi_hashimoto@tbn.co.jp</sys_created_by>
+                        <sys_created_on>2020-04-20 05:51:49</sys_created_on>
+                        <sys_id>9e31d31ddb901010c8a485184b961974</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>emi_hashimoto@tbn.co.jp</sys_updated_by>
+                        <sys_updated_on>2020-04-20 05:53:11</sys_updated_on>
+                        <value>3a31d31ddb901010c8a485184b96194b</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2020-04-19 22:51:49">1e31d31ddb901010c8a485184b961974</portal_section>
+                        <sys_created_by>emi_hashimoto@tbn.co.jp</sys_created_by>
+                        <sys_created_on>2020-04-20 05:51:49</sys_created_on>
+                        <sys_id>d231d31ddb901010c8a485184b961976</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>emi_hashimoto@tbn.co.jp</sys_updated_by>
+                        <sys_updated_on>2020-04-20 05:53:11</sys_updated_on>
+                        <value>pa_widgets</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2020-04-19 22:51:49">1e31d31ddb901010c8a485184b961974</portal_section>
+                        <sys_created_by>emi_hashimoto@tbn.co.jp</sys_created_by>
+                        <sys_created_on>2020-04-20 05:51:49</sys_created_on>
+                        <sys_id>d631d31ddb901010c8a485184b961975</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>emi_hashimoto@tbn.co.jp</sys_updated_by>
+                        <sys_updated_on>2020-04-20 05:51:49</sys_updated_on>
+                        <value>pa_widget_description</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Active Weekly">1adc4bd5db901010c8a485184b9619e8</page>
+                <summary>NeedIt Requests Active Weekly by Priority</summary>
+                <sys_created_by>emi_hashimoto@tbn.co.jp</sys_created_by>
+                <sys_created_on>2020-04-20 05:42:29</sys_created_on>
+                <sys_id>351f4f99db901010c8a485184b961923</sys_id>
+                <sys_mod_count>3</sys_mod_count>
+                <sys_updated_by>emi_hashimoto@tbn.co.jp</sys_updated_by>
+                <sys_updated_on>2020-04-20 05:47:07</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2020-04-19 22:42:29">351f4f99db901010c8a485184b961923</portal_section>
+                        <sys_created_by>emi_hashimoto@tbn.co.jp</sys_created_by>
+                        <sys_created_on>2020-04-20 05:42:29</sys_created_on>
+                        <sys_id>3d1f4f99db901010c8a485184b961923</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>emi_hashimoto@tbn.co.jp</sys_updated_by>
+                        <sys_updated_on>2020-04-20 05:42:29</sys_updated_on>
+                        <value>com.snc.pa.ui.RenderPerformanceAnalytics</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2020-04-19 22:42:29">351f4f99db901010c8a485184b961923</portal_section>
+                        <sys_created_by>emi_hashimoto@tbn.co.jp</sys_created_by>
+                        <sys_created_on>2020-04-20 05:42:29</sys_created_on>
+                        <sys_id>751f4f99db901010c8a485184b961924</sys_id>
+                        <sys_mod_count>2</sys_mod_count>
+                        <sys_updated_by>emi_hashimoto@tbn.co.jp</sys_updated_by>
+                        <sys_updated_on>2020-04-20 05:47:07</sys_updated_on>
+                        <value>NeedIt Requests Active Weekly by Priority</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>render_time</name>
+                        <portal_section display_value="Created 2020-04-19 22:42:29">351f4f99db901010c8a485184b961923</portal_section>
+                        <sys_created_by>emi_hashimoto@tbn.co.jp</sys_created_by>
+                        <sys_created_on>2020-04-20 05:42:29</sys_created_on>
+                        <sys_id>b11f4f99db901010c8a485184b961924</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>emi_hashimoto@tbn.co.jp</sys_updated_by>
+                        <sys_updated_on>2020-04-20 05:42:29</sys_updated_on>
+                        <value>0</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2020-04-19 22:42:29">351f4f99db901010c8a485184b961923</portal_section>
+                        <sys_created_by>emi_hashimoto@tbn.co.jp</sys_created_by>
+                        <sys_created_on>2020-04-20 05:42:29</sys_created_on>
+                        <sys_id>b51f4f99db901010c8a485184b961923</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>emi_hashimoto@tbn.co.jp</sys_updated_by>
+                        <sys_updated_on>2020-04-20 05:43:26</sys_updated_on>
+                        <value>061f0f99db901010c8a485184b96196e</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2020-04-19 22:42:29">351f4f99db901010c8a485184b961923</portal_section>
+                        <sys_created_by>emi_hashimoto@tbn.co.jp</sys_created_by>
+                        <sys_created_on>2020-04-20 05:42:29</sys_created_on>
+                        <sys_id>f91f4f99db901010c8a485184b961924</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>emi_hashimoto@tbn.co.jp</sys_updated_by>
+                        <sys_updated_on>2020-04-20 05:43:26</sys_updated_on>
+                        <value>pa_widgets</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2020-04-19 22:42:29">351f4f99db901010c8a485184b961923</portal_section>
+                        <sys_created_by>emi_hashimoto@tbn.co.jp</sys_created_by>
+                        <sys_created_on>2020-04-20 05:42:29</sys_created_on>
+                        <sys_id>fd1f4f99db901010c8a485184b961923</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>emi_hashimoto@tbn.co.jp</sys_updated_by>
+                        <sys_updated_on>2020-04-20 05:42:29</sys_updated_on>
+                        <value>pa_widget_description</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Active Weekly">1adc4bd5db901010c8a485184b9619e8</page>
+                <summary>NeedIt Requests Active Weekly</summary>
+                <sys_created_by>emi_hashimoto@tbn.co.jp</sys_created_by>
+                <sys_created_on>2020-04-20 05:36:27</sys_created_on>
+                <sys_id>4dbd0b59db901010c8a485184b9619b1</sys_id>
+                <sys_mod_count>2</sys_mod_count>
+                <sys_updated_by>emi_hashimoto@tbn.co.jp</sys_updated_by>
+                <sys_updated_on>2020-04-20 05:38:01</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2020-04-19 22:36:27">4dbd0b59db901010c8a485184b9619b1</portal_section>
+                        <sys_created_by>emi_hashimoto@tbn.co.jp</sys_created_by>
+                        <sys_created_on>2020-04-20 05:36:27</sys_created_on>
+                        <sys_id>05bd0b59db901010c8a485184b9619b3</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>emi_hashimoto@tbn.co.jp</sys_updated_by>
+                        <sys_updated_on>2020-04-20 05:38:01</sys_updated_on>
+                        <value>pa_widgets</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2020-04-19 22:36:27">4dbd0b59db901010c8a485184b9619b1</portal_section>
+                        <sys_created_by>emi_hashimoto@tbn.co.jp</sys_created_by>
+                        <sys_created_on>2020-04-20 05:36:27</sys_created_on>
+                        <sys_id>09bd0b59db901010c8a485184b9619b2</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>emi_hashimoto@tbn.co.jp</sys_updated_by>
+                        <sys_updated_on>2020-04-20 05:36:27</sys_updated_on>
+                        <value>pa_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2020-04-19 22:36:27">4dbd0b59db901010c8a485184b9619b1</portal_section>
+                        <sys_created_by>emi_hashimoto@tbn.co.jp</sys_created_by>
+                        <sys_created_on>2020-04-20 05:36:27</sys_created_on>
+                        <sys_id>45bd0b59db901010c8a485184b9619b2</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>emi_hashimoto@tbn.co.jp</sys_updated_by>
+                        <sys_updated_on>2020-04-20 05:36:27</sys_updated_on>
+                        <value>com.snc.pa.ui.RenderPerformanceAnalytics</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2020-04-19 22:36:27">4dbd0b59db901010c8a485184b9619b1</portal_section>
+                        <sys_created_by>emi_hashimoto@tbn.co.jp</sys_created_by>
+                        <sys_created_on>2020-04-20 05:36:27</sys_created_on>
+                        <sys_id>8dbd0b59db901010c8a485184b9619b2</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>emi_hashimoto@tbn.co.jp</sys_updated_by>
+                        <sys_updated_on>2020-04-20 05:38:01</sys_updated_on>
+                        <value>NeedIt Requests Active Weekly</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>render_time</name>
+                        <portal_section display_value="Created 2020-04-19 22:36:27">4dbd0b59db901010c8a485184b9619b1</portal_section>
+                        <sys_created_by>emi_hashimoto@tbn.co.jp</sys_created_by>
+                        <sys_created_on>2020-04-20 05:36:27</sys_created_on>
+                        <sys_id>c9bd0b59db901010c8a485184b9619b2</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>emi_hashimoto@tbn.co.jp</sys_updated_by>
+                        <sys_updated_on>2020-04-20 05:36:27</sys_updated_on>
+                        <value>0</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2020-04-19 22:36:27">4dbd0b59db901010c8a485184b9619b1</portal_section>
+                        <sys_created_by>emi_hashimoto@tbn.co.jp</sys_created_by>
+                        <sys_created_on>2020-04-20 05:36:27</sys_created_on>
+                        <sys_id>cdbd0b59db901010c8a485184b9619b1</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>emi_hashimoto@tbn.co.jp</sys_updated_by>
+                        <sys_updated_on>2020-04-20 05:38:01</sys_updated_on>
+                        <value>8aed4f59db901010c8a485184b961911</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Active Weekly">1adc4bd5db901010c8a485184b9619e8</page>
+                <summary>NeedIt Active Request by week</summary>
+                <sys_created_by>emi_hashimoto@tbn.co.jp</sys_created_by>
+                <sys_created_on>2020-04-20 05:34:12</sys_created_on>
+                <sys_id>903d8759db901010c8a485184b96194c</sys_id>
+                <sys_mod_count>2</sys_mod_count>
+                <sys_updated_by>emi_hashimoto@tbn.co.jp</sys_updated_by>
+                <sys_updated_on>2020-04-20 05:35:44</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>render_time</name>
+                        <portal_section display_value="Created 2020-04-19 22:34:12">903d8759db901010c8a485184b96194c</portal_section>
+                        <sys_created_by>emi_hashimoto@tbn.co.jp</sys_created_by>
+                        <sys_created_on>2020-04-20 05:34:12</sys_created_on>
+                        <sys_id>103d8759db901010c8a485184b96194d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>emi_hashimoto@tbn.co.jp</sys_updated_by>
+                        <sys_updated_on>2020-04-20 05:34:12</sys_updated_on>
+                        <value>0</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2020-04-19 22:34:12">903d8759db901010c8a485184b96194c</portal_section>
+                        <sys_created_by>emi_hashimoto@tbn.co.jp</sys_created_by>
+                        <sys_created_on>2020-04-20 05:34:12</sys_created_on>
+                        <sys_id>143d8759db901010c8a485184b96194c</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>emi_hashimoto@tbn.co.jp</sys_updated_by>
+                        <sys_updated_on>2020-04-20 05:35:44</sys_updated_on>
+                        <value>4c4d8359db901010c8a485184b9619f8</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2020-04-19 22:34:12">903d8759db901010c8a485184b96194c</portal_section>
+                        <sys_created_by>emi_hashimoto@tbn.co.jp</sys_created_by>
+                        <sys_created_on>2020-04-20 05:34:12</sys_created_on>
+                        <sys_id>583d8759db901010c8a485184b96194d</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>emi_hashimoto@tbn.co.jp</sys_updated_by>
+                        <sys_updated_on>2020-04-20 05:35:44</sys_updated_on>
+                        <value>pa_widgets</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2020-04-19 22:34:12">903d8759db901010c8a485184b96194c</portal_section>
+                        <sys_created_by>emi_hashimoto@tbn.co.jp</sys_created_by>
+                        <sys_created_on>2020-04-20 05:34:12</sys_created_on>
+                        <sys_id>5c3d8759db901010c8a485184b96194c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>emi_hashimoto@tbn.co.jp</sys_updated_by>
+                        <sys_updated_on>2020-04-20 05:34:12</sys_updated_on>
+                        <value>pa_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2020-04-19 22:34:12">903d8759db901010c8a485184b96194c</portal_section>
+                        <sys_created_by>emi_hashimoto@tbn.co.jp</sys_created_by>
+                        <sys_created_on>2020-04-20 05:34:12</sys_created_on>
+                        <sys_id>983d8759db901010c8a485184b96194c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>emi_hashimoto@tbn.co.jp</sys_updated_by>
+                        <sys_updated_on>2020-04-20 05:34:12</sys_updated_on>
+                        <value>com.snc.pa.ui.RenderPerformanceAnalytics</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2020-04-19 22:34:12">903d8759db901010c8a485184b96194c</portal_section>
+                        <sys_created_by>emi_hashimoto@tbn.co.jp</sys_created_by>
+                        <sys_created_on>2020-04-20 05:34:12</sys_created_on>
+                        <sys_id>d03d8759db901010c8a485184b96194d</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>emi_hashimoto@tbn.co.jp</sys_updated_by>
+                        <sys_updated_on>2020-04-20 05:35:44</sys_updated_on>
+                        <value>NeedIt Active Request by week</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal_page>
+</record_update>

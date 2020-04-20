@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+        <grid_canvas display_value="PA NeedIt Application - New Tab 2">9edc4bd5db901010c8a485184b9619e8</grid_canvas>
+        <height>14</height>
+        <portal_widget display_value="Created 2020-04-19 22:42:29">351f4f99db901010c8a485184b961923</portal_widget>
+        <posx>0</posx>
+        <posy>14</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>emi_hashimoto@tbn.co.jp</sys_created_by>
+        <sys_created_on>2020-04-20 05:42:29</sys_created_on>
+        <sys_id>311f4f99db901010c8a485184b961925</sys_id>
+        <sys_mod_count>11</sys_mod_count>
+        <sys_name>9edc4bd5db901010c8a485184b9619e8</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_311f4f99db901010c8a485184b961925</sys_update_name>
+        <sys_updated_by>emi_hashimoto@tbn.co.jp</sys_updated_by>
+        <sys_updated_on>2020-04-20 05:55:14</sys_updated_on>
+        <width>6</width>
+    </sys_grid_canvas_pane>
+</record_update>
