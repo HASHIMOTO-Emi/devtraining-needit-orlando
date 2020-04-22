@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="DELETE" field="u_what_needed" table="x_58872_needit_needit" version="3">
+        <sys_choice_set action="DELETE">
+            <element>u_what_needed</element>
+            <name>x_58872_needit_needit</name>
+            <sys_class_name/>
+            <sys_created_by/>
+            <sys_created_on/>
+            <sys_id/>
+            <sys_mod_count/>
+            <sys_name/>
+            <sys_package/>
+            <sys_policy/>
+            <sys_scope/>
+            <sys_update_name/>
+            <sys_updated_by/>
+            <sys_updated_on>2020-04-21 09:37:20</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application/>
+        <file_path/>
+        <instance_id>e2340578db8ed3c86578f22ebf96190f</instance_id>
+        <instance_name>dev58937</instance_name>
+        <name>sys_choice_x_58872_needit_needit_u_what_needed</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="DELETE" field="u_what_needed" table="x_58872_needit_needit" version="3"><sys_choice_set action="DELETE"><element>u_what_needed</element><name>x_58872_needit_needit</name><sys_class_name/><sys_created_by/><sys_created_on/><sys_id/><sys_mod_count/><sys_name/><sys_package/><sys_policy/><sys_scope/><sys_update_name/><sys_updated_by/><sys_updated_on>2020-04-21 09:37:20</sys_updated_on></sys_choice_set></sys_choice></record_update>]]></payload>
+        <payload_hash>-429457270</payload_hash>
+        <record_name>x_58872_needit_needit.u_what_needed</record_name>
+        <reverted_from/>
+        <source>4309eb90db901010c8a485184b96195f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>emi_hashimoto@tbn.co.jp</sys_created_by>
+        <sys_created_on>2020-04-21 09:37:20</sys_created_on>
+        <sys_id>576ec175db141010c8a485184b961938</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1719c195e520000001</sys_recorded_at>
+        <sys_updated_by>emi_hashimoto@tbn.co.jp</sys_updated_by>
+        <sys_updated_on>2020-04-21 09:37:20</sys_updated_on>
+        <type>Choice list</type>
+        <update_guid>df6ec175901410107a33795876b10a37</update_guid>
+        <update_guid_history>df6ec175901410107a33795876b10a37:-429457270,9b6ec175f9141010bfdbf37c1e236834:-915848390,1b6ec175de14101021973390060e5131:367156690,976ec1759d14101024eec6af1c8f982e:-1223568115,176ec17534141010585172317726b02b:1500617887,936ec175ad1410101605c6f92e52aa28:1827197514,136ec175981410104f1bb510ef76b025:-2088659708,85f8eb14dd901010de262ef66b0b310e:0,a5e8a71455901010a5884de9595cf3a8:-1483680577,29e8a7147d901010f7086b6f6d6385a4:-915848390,a5e8a7146e901010c12b0ace47d242a1:-567701384,25e8a7144e901010ad11efc73686e39e:-1423691141,a1e8a7142590101088cb20383bb66b9b:-709049971,21e8a7147b90101079620243d08df898:-1389990280,ade8a71453901010c9bd29ba06932494:221069324,2de8a714619010103ddc3d58e91e7391:115963504,a9e8a714a4901010995362c89624258e:-495418659,4f5bf658e7101010e457d9571b882b89:0,0a4bfe18171010101d5e1acfe6ec8039:-429457270,464bfe188d1010105afddf9d98b66436:-915848390,464bfe1881101010573d5837f806a833:367156690,464bfe18bf101010a69b525332d61f30:-1223568115,464bfe18c31010102d1cf89fca6f902d:1500617887,464bfe185c1010100a487b583df9652a:1827197514,464bfe18a21010109e0c6541d8b52d27:-2088659708,d4c6357317c010109cbe2a775dd07405:0,5ea63d3368c01010d81b4006b67392a0:-429457270,1aa63d336dc010108d97884d80b4219d:-915848390,96a63d3350c01010010cb9d139cab99a:367156690,16a63d33bac010105309f59ac32b0197:-1223568115,92a63d3338c0101008048258b6f35294:1500617887,12a63d3371c01010466f70f83826be91:1827197514,9ea63d335bc01010ac5c4aaf5034a78d:-2088659708,7b5eb0ef92c810106fab8aa693f4d020:0,d85e7caf4ec810107cf273ac8a3741e1:491169603,5c5e7caf5dc8101049ad040acd4d56dd:-915848390,d85e7cafe6c810102589ccd8d64f7cda:-567701384,585e7caf91c8101011f7f7e252513ed7:-1423691141,d45e7cafc1c810103f66430805eb58d4:-709049971,545e7caf18c81010d3198272732ac5d1:-1389990280,d05e7cafbfc81010b8a5bbb8dd310ace:221069324,505e7caf64c81010e655ba6f207133cb:115963504,dc5e7caf45c81010492dd3f49924ddc7:-495418659,0f4aab9bb408101040c476c39df1b4af:0,474aab9b32081010a632e9cadb92a586:2037410899</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>emi_hashimoto@tbn.co.jp</sys_created_by>
+        <sys_created_on>2020-04-21 09:37:41</sys_created_on>
+        <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+        <sys_id>737e4975db141010c8a485184b96193e</sys_id>
+        <sys_metadata>737e4975db141010c8a485184b96193e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_what_needed</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_choice_x_58872_needit_needit_u_what_needed</sys_update_name>
+        <sys_update_version display_value="sys_choice_x_58872_needit_needit_u_what_needed">576ec175db141010c8a485184b961938</sys_update_version>
+        <sys_updated_by>emi_hashimoto@tbn.co.jp</sys_updated_by>
+        <sys_updated_on>2020-04-21 09:37:41</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
